@@ -1,0 +1,34 @@
+# Segreti e credenziali — MAI committare
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+credentials*.json
+secrets*
+*secret*
+*password*
+
+# Dipendenze
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Build / output
+dist/
+build/
+*.log
+.cache/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+*.swp
+
+# File temporanei / privati dei clienti (metti qui materiale riservato)
+**/privato/
+**/_riservato/
