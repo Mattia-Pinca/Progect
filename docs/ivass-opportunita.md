@@ -1,13 +1,44 @@
 # Opportunità di lavoro — Settore IVASS e assicurativo
 
-L'Attestato IVASS (Istituto per la Vigilanza sulle Assicurazioni) abilita a
-operare come intermediario assicurativo. Per chi ha competenze IT, si apre un
-segmento di clienti con esigenze digitali specifiche e budget mediamente più
-alti del lavoro web generico.
+**Situazione:** attestato IVASS in possesso + competenze IT.
+Questa combinazione è rara e vale molto: la maggior parte degli intermediari
+non ha skill tecniche, e la maggior parte degli sviluppatori non conosce il
+settore. Stare nel mezzo apre due filoni distinti.
 
 ---
 
-## Chi ha bisogno di noi
+## Filone A — Lavoro come intermediario assicurativo
+
+Con l'attestato puoi operare direttamente nel settore, non solo supportarlo.
+
+### Opzioni concrete
+
+**1. Subagente per un'agenzia**
+Collabori con un'agenzia già iscritta al RUI come agente/subagente esterno.
+Tu porti clienti o gestisci un portafoglio, loro si occupano della struttura.
+Compenso: provvigioni sul premio (tipicamente 5–20% a seconda del ramo).
+- Cercare su LinkedIn agenzie che cercano "agenti assicurativi freelance"
+- Piattaforme: Fata.it, Generali, agenzie regionali
+
+**2. Collaborazione con broker come consulente**
+I broker assicurativi usano spesso consulenti esterni per analizzare esigenze
+di clienti PMI. Se hai competenze IT, puoi specializzarti in polizze cyber,
+responsabilità informatica, coperture per software/startup.
+Compenso: fee per consulenza o quota delle provvigioni.
+
+**3. Agente digitale indipendente (lungo termine)**
+Iscriversi al RUI come agente e operare in proprio, con focus su nicchie
+digitali: polizze cyber risk, tutela legale per freelance/partite IVA,
+assicurazioni per e-commerce. Richiede iscrizione RUI e struttura minima.
+
+---
+
+## Filone B — Sviluppatore IT specializzato nel settore assicurativo
+
+L'attestato funziona come credenziale di settore: sei uno sviluppatore che
+*capisce davvero* il cliente assicurativo. Questo vale nei preventivi.
+
+### Chi ha bisogno di noi
 
 | Cliente | Problema comune | Lavoro IT richiesto |
 |---------|-----------------|---------------------|
@@ -120,12 +151,26 @@ operano in un settore regolamentato con budget professionali.
 
 ---
 
+## Come usare l'attestato nel marketing IT
+
+Anche quando vendi servizi IT (non assicurativi), l'attestato è un
+differenziatore da citare esplicitamente:
+
+> "Sviluppatore con Attestato IVASS — capisco il tuo lavoro, non solo il codice."
+
+Nei gig Fiverr, nelle proposte Upwork, nelle email a freddo: menzionarlo
+aumenta la fiducia dei clienti assicurativi e giustifica prezzi più alti.
+
+---
+
 ## Avvertenze
 
-- **Non offrire consulenza assicurativa** — si è sviluppatori, non intermediari.
-  Il tool è IT, non il consiglio sulla polizza.
-- **GDPR:** i clienti assicurativi trattano dati sensibili (salute, ecc.).
-  Qualsiasi tool che raccoglie dati deve essere conforme. Avvisare il cliente
-  e includere una nota nel contratto.
+- **Filone A vs B sono separati:** se operi come intermediario per un'agenzia,
+  quella agenzia definisce cosa puoi fare. Leggere bene il contratto di
+  collaborazione prima di firmare.
+- **Iscrizione RUI obbligatoria** per operare autonomamente come intermediario.
+  Senza iscrizione attiva, l'attestato abilita ma non autorizza.
+- **GDPR:** i clienti assicurativi trattano dati sensibili (salute, sinistri).
+  Qualsiasi tool che raccoglie dati deve essere conforme. Clausola nel contratto.
 - **Accesso al Registro RUI:** usarlo solo per ricerca clienti, non per
   attività di spam massivo.
