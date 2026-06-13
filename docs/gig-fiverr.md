@@ -175,6 +175,75 @@ fattibile e quale pacchetto serve.
 
 ---
 
+---
+
+## GIG 4 — Simulatore d'esame e tool per agenti assicurativi (settore IVASS)
+
+**Titolo (max 80 caratteri):**
+> I will build a quiz app or automation tool for insurance professionals
+
+**Categoria:** Programming & Tech → Software Development → Web Application
+
+**Tag di ricerca (5):** `quiz app`, `insurance tool`, `python automation`, `web app`, `google sheets`
+
+**Descrizione:**
+```
+Sei un agente o broker assicurativo e hai bisogno di uno strumento digitale
+su misura? Lo costruisco io.
+
+Realizzo tool pratici per professionisti del settore assicurativo (iscritti
+RUI/IVASS): non consulenza assicurativa, solo sviluppo software.
+
+✅ Cosa posso fare:
+• Simulatore d'esame IVASS — app web con domande a risposta multipla
+  per prepararsi all'esame di abilitazione
+• Tracker scadenze polizze — Excel evoluto o script Python che avvisa
+  automaticamente prima delle scadenze
+• Monitor circolari — script che controlla ivass.it e ti manda una email
+  quando escono nuove circolari/provvedimenti
+• Mini CRM su Google Sheets — gestione clienti, polizze e scadenze in
+  un foglio strutturato e professionale
+• Form digitale — sostituzione di moduli cartacei con un form web che
+  salva i dati automaticamente
+• Landing page professionale — sito vetrina per la tua attività
+
+✅ Perché scegliermi:
+• Conosco le esigenze specifiche del settore assicurativo italiano
+• Consegno tool pronti all'uso, con istruzioni chiare
+• Nessun abbonamento da pagare — strumenti tuoi, per sempre
+
+💬 Hai un'esigenza specifica? Scrivimi prima di ordinare e ti dico
+subito cosa si può fare e in quanto tempo.
+```
+
+**Pacchetti:**
+
+| | Basic | Standard | Premium |
+|---|---|---|---|
+| Nome | Tool Semplice | Tool Completo | Soluzione Su Misura |
+| Prezzo | €60 | €150 | €350 |
+| Descrizione | Tracker scadenze o monitor circolari | Simulatore quiz o mini CRM | App web custom o integrazione multi-tool |
+| Consegna | 3 giorni | 5 giorni | 8 giorni |
+| Revisioni | 1 | 2 | 3 |
+
+**FAQ:**
+- *Devo essere esperto di informatica per usare il tool?* — No, consegno sempre
+  con istruzioni passo-passo pensate per chi non è tecnico.
+- *I dati dei miei clienti sono al sicuro?* — Il tool gira sul tuo computer o
+  nel tuo account Google/Airtable. I dati non passano da server miei.
+- *Puoi fare consulenza su polizze o IVASS?* — No, mi occupo solo dello
+  sviluppo software. Per la parte assicurativa sei tu l'esperto.
+- *Posso avere il codice sorgente?* — Sì, tutto il codice ti viene consegnato
+  e puoi modificarlo come vuoi.
+
+**Requisiti da chiedere al cliente (Requirements):**
+- Descrizione del tool che vuoi (anche a parole tue, con un esempio)
+- Tipo di dati coinvolti (polizze, scadenze, domande d'esame, ecc.)
+- Strumenti che già usi (Excel, Google Sheets, Windows/Mac, ecc.)
+- Risultato desiderato (cosa deve fare il tool, passo per passo)
+
+---
+
 ## Consigli per la pubblicazione
 
 - **Immagine del gig:** usa un'immagine chiara con un titolo leggibile. Puoi
